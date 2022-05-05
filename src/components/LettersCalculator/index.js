@@ -18,7 +18,7 @@ class LettersCaluclator extends Component {
         <div className="caluclator-container">
           <div className="letters-caluclator">
             <h1 className="heading"> Calculate the Letters you enter </h1>
-            <label className="label-text" htmlFor={searchInput}>
+            <label className="label-text" htmlFor="searchInput">
               Enter the phrase
             </label>
             <input
